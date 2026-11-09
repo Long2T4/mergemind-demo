@@ -4,4 +4,5 @@ def parse_setting(text):
 
 
 def describe(value):
-    return "Setting: " + str(value)
+    label = "Setting"
+    return label + ": " + str(value)

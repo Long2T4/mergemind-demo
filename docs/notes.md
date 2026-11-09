@@ -1,3 +1,3 @@
 # Notes
 
-Demo notes.
+Demo notes for the sign-up feature.
